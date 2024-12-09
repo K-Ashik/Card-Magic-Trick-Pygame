@@ -85,6 +85,15 @@ card_trick_pygame/
 
 ```
 
+
+
 ### Technologies Used
 	•	Python: Core language for development.
 	•	Pygame: For game development, graphics, and user interaction.
+
+
+### Credits
+
+Developed by [PythonGameDev].
+
+Enjoy the game and amaze yourself with the magician’s tricks! 🎩✨
