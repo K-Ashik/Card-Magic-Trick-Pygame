@@ -82,3 +82,9 @@ card_trick_pygame/
 │   ├── icon/               # Application icons
 │   └── ...
 └── README.md               # Project documentation
+
+```
+
+### Technologies Used
+	•	Python: Core language for development.
+	•	Pygame: For game development, graphics, and user interaction.
